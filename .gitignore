@@ -10,3 +10,6 @@
 # Exported plaintext lists.
 /*.txt
 /*.yml
+
+# Generated insights (include 关系可视化). Run: ./tools/visualize_includes.py
+/insights/
